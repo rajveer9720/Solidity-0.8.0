@@ -17,5 +17,6 @@ contract FirstProgram{
         hey =_hey;
         no =_no;
     }
+
 }
 
